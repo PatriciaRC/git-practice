@@ -1,0 +1,33 @@
+body {
+    background-color: darkslategray;
+
+}
+
+.title {
+    background-color: gray;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+#subtitle {
+    background-color: aquamarine;
+    width: 50%;
+
+}
+
+.intro {
+    background-color: burlywood;
+}
+
+.apartado {
+    background-color: cornflowerblue;
+}
+
+.table {
+    background-color: darkgoldenrod;
+}
+
+.conclusion {
+    background-color: darksalmon;
+}
